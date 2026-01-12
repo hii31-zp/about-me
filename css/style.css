@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+html{
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Zen Kaku Gothic New", serif;
   font-size: 16px;
